@@ -16,5 +16,6 @@ I'm a passionate software developer with a love for open-source projects and com
 
 ## 📈 GitHub Stats
 ![Ismoil's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsmoilObidov&show_icons=true&theme=radical)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=IsmoilObidov&layout=compact)
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=IsmoilObidov)
