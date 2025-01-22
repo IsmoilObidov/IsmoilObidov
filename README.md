@@ -1,17 +1,16 @@
 # Hello, I'm Ismoil Obidov! 👋
 
-I'm a passionate software developer with a love for open-source projects and community collaboration.
+I'm a passionate web-backend developer with a love for open-source projects and community collaboration.
 
-- 🔭 I’m currently working on [Project Name](https://github.com/IsmoilObidov/ProjectName)
-- 🌱 I’m currently learning [Technology/Language]
-- 👯 I’m looking to collaborate on [Type of Projects]
-- 💬 Ask me about [Topics]
-- 📫 How to reach me: [Your Email](mailto:your.email@example.com)
-- ⚡ Fun fact: [Something Interesting About You]
+- 🔭 I’m currently working on [CropAgro](https://cabinet-crop.digitagro.uz/cabinet/profile?tab=user)
+- 🌱 I’m currently learning NestJS
+- 💬 Ask me about CS2 :)
+- 📫 How to reach me: [Email](mailto:ismoilobidov10001@gmail.com)
+- ⚡ Fun fact: Did you know? The term "backend" in web development is metaphorically derived from the concept of "backstage" in theater. Just as the backstage is crucial for the seamless performance of a play but remains hidden from the audience, the backend of a web application is essential for its functionality but remains invisible to the users. Backend developers manage the server, database, and application logic to ensure everything runs smoothly behind the scenes!
 
 ## 🚀 My Skills
-- **Languages**: Python, JavaScript, C++
-- **Frameworks**: React, Django, Flask
+- **Languages**: Php, Python, NodeJS
+- **Frameworks**: Laravel, Django, NestJS
 - **Tools**: Git, Docker, Kubernetes
 
 ## 📈 GitHub Stats
