@@ -1,4 +1,4 @@
-<h1 align="center">Salom, I'm Ismoil 👋</h1>
+<h1 align="center">Hi, I'm Ismoil 👋</h1>
 
 <p align="center">
   Full-stack developer from Tashkent 🇺🇿 — building products for the Central Asian market.
@@ -15,7 +15,6 @@
 
 - 🔭 Node.js / PHP developer at **Digitagro**, an agricultural platform
 - 🚀 Founder & builder of **Repute** — a reputation marketplace for professionals
-- 🎓 Computer Engineering @ Sejong University (4th year)
 - ⚽ Off-hours: guitar, football, UFC, and tinkering with PC hardware
 
 ---
