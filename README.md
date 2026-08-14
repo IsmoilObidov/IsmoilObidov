@@ -58,31 +58,35 @@
 
 ---
 
-### GitHub Stats
+<h3 align="center">📊 GitHub Stats</h3>
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsmoilObidov&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IsmoilObidov&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IsmoilObidov&theme=github_dark" />
+<div align="center">
 
-<!-- График активности -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=IsmoilObidov&theme=github-dark&hide_border=true" />
+<!-- Профиль: широкий баннер, отдельной строкой -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsmoilObidov&theme=github_dark" width="90%" />
+
+<!-- Две квадратные карточки строго в ряд -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IsmoilObidov&theme=github_dark" height="200" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IsmoilObidov&theme=github_dark" height="200" />
+    </td>
+  </tr>
+</table>
+
+<!-- Streak: только один вариант -->
+<img src="https://streak-stats.demolab.com?user=IsmoilObidov&theme=github-dark&hide_border=true&card_width=500" height="200" />
+
+<!-- График активности на всю ширину -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IsmoilObidov&theme=github-dark&hide_border=true&area=true" width="90%" />
 
 <!-- Трофеи -->
-<img src="https://github-profile-trophy.vercel.app/?username=IsmoilObidov&theme=darkhub&no-frame=true&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=IsmoilObidov&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="90%" />
 
-<!-- Счётчик просмотров профиля -->
-<img src="https://komarev.com/ghpvc/?username=IsmoilObidov&color=blue&style=flat" />
-</p>
-
-<p align="center">
-  
-<img src="https://streak-stats.demolab.com?user=IsmoilObidov&theme=github-dark&hide_border=true" />
-
-<!-- Альтернатива стрику, если demolab лежит -->
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=IsmoilObidov&theme=github-dark&hide_border=true" />
-</p>
-
+</div>
 ---
 
 <p align="center">
