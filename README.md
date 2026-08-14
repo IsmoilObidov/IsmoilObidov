@@ -61,12 +61,21 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsmoilObidov&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmoilObidov&layout=compact&theme=radical&hide_border=true" height="165" />
+ <!-- Основная статистика -->
+<img src="https://github-readme-stats.vercel.app/api?username=IsmoilObidov&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" height="165" />
+
+<!-- Топ языков -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmoilObidov&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" height="165" />
+
+<!-- Стрик -->
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsmoilObidov&theme=radical&hide_border=true" height="165" />
+  
+<img src="https://streak-stats.demolab.com?user=IsmoilObidov&theme=github-dark&hide_border=true" />
+
+<!-- Альтернатива стрику, если demolab лежит -->
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=IsmoilObidov&theme=github-dark&hide_border=true" />
 </p>
 
 ---
