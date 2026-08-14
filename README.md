@@ -61,13 +61,18 @@
 ### GitHub Stats
 
 <p align="center">
- <!-- Основная статистика -->
-<img src="https://github-readme-stats.vercel.app/api?username=IsmoilObidov&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsmoilObidov&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IsmoilObidov&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IsmoilObidov&theme=github_dark" />
 
-<!-- Топ языков -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmoilObidov&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400" height="165" />
+<!-- График активности -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=IsmoilObidov&theme=github-dark&hide_border=true" />
 
-<!-- Стрик -->
+<!-- Трофеи -->
+<img src="https://github-profile-trophy.vercel.app/?username=IsmoilObidov&theme=darkhub&no-frame=true&column=7" />
+
+<!-- Счётчик просмотров профиля -->
+<img src="https://komarev.com/ghpvc/?username=IsmoilObidov&color=blue&style=flat" />
 </p>
 
 <p align="center">
